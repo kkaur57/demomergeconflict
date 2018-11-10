@@ -1,3 +1,3 @@
 # demomergeconflict
 
-Komalpreet Kaur
+Komalpreet Kaur, I like DMIT2018.
